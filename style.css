@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+    text-decoration: underline;
+    font-size: 300%;
+}
+
+#parrafo {
+    text-align: center;
+    font-size: 200%;
+}
+
+.clabel {
+    
+    font-size: 20px; 
+    color: gray; 
+    display: block; 
+    margin-bottom: 3px; 
+}
+
+.input {
+    border: 3px solidrgb;
+    border-radius: 4px; 
+    font-size: 1rem; 
+}
